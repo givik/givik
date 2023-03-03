@@ -1,7 +1,6 @@
 <br>
 
-<div style="text-align: right">Tired of **software development**...</div>
-
+Tired of **software development**...
 <br><br><br>
 currently learning Data Science 🌱
 
