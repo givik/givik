@@ -1,4 +1,6 @@
-### Hi there 👋
+Tired of **software development**...
+<br><br><br>
+currently learning Data Science 🌱
 
 <!--
 **givik/givik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
