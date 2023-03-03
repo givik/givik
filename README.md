@@ -1,4 +1,7 @@
+<br>
+
 Tired of **software development**...
+
 <br><br><br>
 currently learning Data Science 🌱
 
