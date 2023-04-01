@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on NLP of the **Georgian** language<br>👯 I’m looking to collaborate on NLP Project<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning MATH<br>💬 Ask me about collaboration<br>⚡ Fun fact: I'm currently learning math, which I thought was useless for software development for many years.<br><br>
+🔭 I'm currently working on NLP of the **Georgian** language<br>👯 I’m looking to collaborate on NLP Project<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning MATH<br>💬 Ask me about collaboration<br><br>
 
 
 # 📈 GitHub Stats:
