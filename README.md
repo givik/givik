@@ -1,3 +1,4 @@
+<br>
 # 💫 About Me:
 🔭 I'm currently working on NLP of the **Georgian** language<br>👯 I’m looking to collaborate on NLP Project<br>🤝 I’m looking for help with AI/ML<br>🌱 I’m currently learning MATH<br>💬 Ask me about collaboration<br><br>
 
