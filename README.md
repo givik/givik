@@ -2,7 +2,7 @@
 🔭 I'm currently working on NLP of the **Georgian** language<br>👯 I’m looking to collaborate on NLP Project<br>🤝 I’m looking for help with AI/ML<br>💬 Ask me about collaboration<br><br>
 
 # 🌐 Linkedin:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/givik)<br><br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=flat-square)](https://linkedin.com/in/givik)<br><br>
 
 
 # 💻 Tech Stack:
